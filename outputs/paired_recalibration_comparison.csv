@@ -1,0 +1,5 @@
+Recalibration_Condition,Delta_High_Urgency_Wait,Delta_Inversion_Rate,Delta_Low_Urgency_P95,Mean_Final_w1
+Baseline Recal (d=0.08),+0.34 +/- 0.36,+0.0098 +/- 0.0074,-2.9 +/- 1.9,0.544
+Refined Option A (d=0.08),-0.15 +/- 0.09,-0.0256 +/- 0.0055,+10.0 +/- 2.9,0.82
+Refined Option A (d=0.25),-0.16 +/- 0.09,-0.0332 +/- 0.0056,+12.9 +/- 3.2,0.87
+Refined Option A + Noise/Bias,-0.05 +/- 0.09,-0.0058 +/- 0.0049,+2.6 +/- 2.1,0.645

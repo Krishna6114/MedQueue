@@ -1,0 +1,92 @@
+{
+  "n_runs": 30,
+  "cases_per_run": 2000,
+  "summary_table": [
+    {
+      "Condition": "FIFO",
+      "High_Urgency_Wait_Min": "11.44 +/- 0.81",
+      "Inversion_Rate": "0.2958 +/- 0.0119",
+      "Low_Urgency_Max_Wait_Min": "67.1 +/- 5.0",
+      "Low_Urgency_P95_Wait_Min": "38.0 +/- 3.2",
+      "Mean_Final_w1": 0.6
+    },
+    {
+      "Condition": "Urgency-Only (w2=0)",
+      "High_Urgency_Wait_Min": "3.01 +/- 0.05",
+      "Inversion_Rate": "0.0040 +/- 0.0006",
+      "Low_Urgency_Max_Wait_Min": "434.5 +/- 67.0",
+      "Low_Urgency_P95_Wait_Min": "87.3 +/- 8.0",
+      "Mean_Final_w1": 0.6
+    },
+    {
+      "Condition": "MedQueue (Fixed)",
+      "High_Urgency_Wait_Min": "3.17 +/- 0.13",
+      "Inversion_Rate": "0.0495 +/- 0.0073",
+      "Low_Urgency_Max_Wait_Min": "126.8 +/- 6.4",
+      "Low_Urgency_P95_Wait_Min": "73.4 +/- 5.0",
+      "Mean_Final_w1": 0.6
+    },
+    {
+      "Condition": "Baseline Recal (d=0.08)",
+      "High_Urgency_Wait_Min": "3.50 +/- 0.47",
+      "Inversion_Rate": "0.0593 +/- 0.0142",
+      "Low_Urgency_Max_Wait_Min": "122.4 +/- 5.1",
+      "Low_Urgency_P95_Wait_Min": "70.5 +/- 3.6",
+      "Mean_Final_w1": 0.544
+    },
+    {
+      "Condition": "Refined Option A (d=0.08)",
+      "High_Urgency_Wait_Min": "3.02 +/- 0.06",
+      "Inversion_Rate": "0.0239 +/- 0.0022",
+      "Low_Urgency_Max_Wait_Min": "180.5 +/- 21.2",
+      "Low_Urgency_P95_Wait_Min": "83.4 +/- 7.6",
+      "Mean_Final_w1": 0.82
+    },
+    {
+      "Condition": "Refined Option A (d=0.25)",
+      "High_Urgency_Wait_Min": "3.01 +/- 0.06",
+      "Inversion_Rate": "0.0163 +/- 0.0020",
+      "Low_Urgency_Max_Wait_Min": "217.1 +/- 26.7",
+      "Low_Urgency_P95_Wait_Min": "86.3 +/- 7.8",
+      "Mean_Final_w1": 0.87
+    },
+    {
+      "Condition": "Refined Option A + Noise/Bias",
+      "High_Urgency_Wait_Min": "3.12 +/- 0.08",
+      "Inversion_Rate": "0.0437 +/- 0.0038",
+      "Low_Urgency_Max_Wait_Min": "138.7 +/- 12.3",
+      "Low_Urgency_P95_Wait_Min": "76.0 +/- 6.8",
+      "Mean_Final_w1": 0.645
+    }
+  ],
+  "paired_recalibration_table": [
+    {
+      "Recalibration_Condition": "Baseline Recal (d=0.08)",
+      "Delta_High_Urgency_Wait": "+0.34 +/- 0.36",
+      "Delta_Inversion_Rate": "+0.0098 +/- 0.0074",
+      "Delta_Low_Urgency_P95": "-2.9 +/- 1.9",
+      "Mean_Final_w1": 0.544
+    },
+    {
+      "Recalibration_Condition": "Refined Option A (d=0.08)",
+      "Delta_High_Urgency_Wait": "-0.15 +/- 0.09",
+      "Delta_Inversion_Rate": "-0.0256 +/- 0.0055",
+      "Delta_Low_Urgency_P95": "+10.0 +/- 2.9",
+      "Mean_Final_w1": 0.82
+    },
+    {
+      "Recalibration_Condition": "Refined Option A (d=0.25)",
+      "Delta_High_Urgency_Wait": "-0.16 +/- 0.09",
+      "Delta_Inversion_Rate": "-0.0332 +/- 0.0056",
+      "Delta_Low_Urgency_P95": "+12.9 +/- 3.2",
+      "Mean_Final_w1": 0.87
+    },
+    {
+      "Recalibration_Condition": "Refined Option A + Noise/Bias",
+      "Delta_High_Urgency_Wait": "-0.05 +/- 0.09",
+      "Delta_Inversion_Rate": "-0.0058 +/- 0.0049",
+      "Delta_Low_Urgency_P95": "+2.6 +/- 2.1",
+      "Mean_Final_w1": 0.645
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+case_id,esi_level,category,symptom_text,true_severity,urgency_tier,predicted_urgency,confidence
+CASE-0004,1,Acute Neurological Emergency,Patient reports sudden slurred speech and weakness on right side of face and arm (began 40 minutes ago); never experienced before.,96.82,High,85.17,0.7358
+CASE-0308,4,Mild Self-Limiting Symptoms,Patient reports mild tension headache relieved partially by rest (for 3 days); stable since onset.,25.56,Low,29.36,0.8333
+CASE-0071,2,High-Risk Febrile / Sepsis / Abdominal,"severe sharp lower right abdominal pain with persistent vomiting, fever not responding to paracetamol, since last night.",77.61,High,76.47,0.8393
+CASE-0136,3,Moderate Infection / Acute Pain,Patient reports painful urination with lower abdominal discomfort and mild fever (for 24 hours); no chest pain or shortness of breath.,59.92,Moderate,60.78,0.8753
+CASE-0032,1,Severe Anaphylaxis / Hemorrhage,"heavy uncontrolled bleeding from deep laceration, feeling faint when standing, for 15 minutes.",92.59,High,78.22,0.7714
+CASE-0030,1,Acute Cardiopulmonary Distress,severe chest tightness with cold sweats and dizziness for the past 30 minutes. Notes: occurring at rest.,92.67,High,89.95,0.7195
+CASE-0083,2,High-Risk Febrile / Sepsis / Abdominal,Patient reports acute severe flank pain radiating to groin with blood in urine (for the past 4 hours); unable to keep fluids down.,77.64,High,78.08,0.8002
+CASE-0264,4,Minor Acute Ailment,mild acid reflux and bloating after heavy meal for 2 days. Notes: able to eat drink and walk normally.,32.63,Low,32.45,0.9159
+CASE-0193,3,Moderate Infection / Acute Pain,"moderate fever 101.5F with productive cough and body aches, no chest pain or shortness of breath, for 2 days.",62.44,Moderate,61.05,0.8461
+CASE-0168,3,Moderate Infection / Acute Pain,"moderate abdominal cramps with repeated watery diarrhea, feeling fatigued but alert and breathing comfortably, since yesterday.",59.75,Moderate,61.76,0.805
+CASE-0358,5,Routine Administrative / Follow-up,routine prescription refill request for stable blood pressure medication ongoing routine care. Notes: no complaints or discomfort.,17.4,Low,18.08,0.8472
+CASE-0157,3,Moderate Infection / Acute Pain,Patient reports painful swollen ankle after twisting injury unable to bear weight (for 2 days); moderate discomfort interfering with sleep.,63.59,Moderate,57.63,0.8659
+CASE-0080,2,Acute Respiratory / Metabolic Exacerbation,"sudden severe eye pain with blurred vision and halos around lights, rescue inhaler giving minimal relief, since early morning.",86.04,High,77.18,0.7831
+CASE-0151,3,Subacute Clinical Evaluation,Patient reports localized red warm skin swelling on forearm (for 3 days); gradual onset.,57.98,Moderate,53.2,0.8466
+CASE-0387,5,Routine Administrative / Follow-up,routine prescription refill request for stable blood pressure medication ongoing routine care. Notes: for routine continuation only.,12.03,Low,15.97,0.8757
+CASE-0386,5,Minor Chronic / Cosmetic Inquiry,Patient reports mild dandruff and scalp dryness (for 2 weeks); non urgent inquiry.,8.09,Low,21.23,0.8357
+CASE-0295,4,Minor Acute Ailment,itchy localized skin rash on arm without fever or swelling since yesterday. Notes: no fever or breathing difficulty.,33.95,Low,43.59,0.7502
+CASE-0102,3,Subacute Clinical Evaluation,Patient reports persistent dry cough with mild wheeze in known asthmatic (for 3 days); gradual onset.,50.84,Moderate,55.02,0.9273
+CASE-0382,5,Minor Chronic / Cosmetic Inquiry,Patient reports routine certificate renewal for fitness checkup (for 1 month); completely stable.,11.13,Low,17.32,0.7916
+CASE-0172,3,Subacute Clinical Evaluation,Patient reports moderate migraine headache with nausea and light sensitivity (over the last 48 hours); mild relief with rest.,53.91,Moderate,53.96,0.8416
+CASE-0191,3,Subacute Clinical Evaluation,Patient reports moderate migraine headache with nausea and light sensitivity (since yesterday evening); no confusion or neck stiffness.,60.62,Moderate,55.55,0.8697
+CASE-0065,2,Acute Respiratory / Metabolic Exacerbation,sudden severe eye pain with blurred vision and halos around lights over the past 5 hours. Notes: rescue inhaler giving minimal relief.,79.23,High,81.58,0.8186
+CASE-0184,3,Subacute Clinical Evaluation,persistent dry cough with mild wheeze in known asthmatic for 3 days. Notes: vital signs feel stable.,59.41,Moderate,52.36,0.9052
+CASE-0343,5,Routine Administrative / Follow-up,"follow up review of normal routine blood test report, no complaints or discomfort, since last month.",14.1,Low,20.18,0.7118
+CASE-0375,5,Routine Administrative / Follow-up,Patient reports follow up review of normal routine blood test report (scheduled monthly check); no complaints or discomfort.,12.68,Low,29.07,0.7902
+CASE-0069,2,High-Risk Febrile / Sepsis / Abdominal,Patient reports acute severe flank pain radiating to groin with blood in urine (for the past 4 hours); pain rated 9 out of 10.,79.34,High,75.62,0.8015
+CASE-0152,3,Moderate Infection / Acute Pain,"painful swollen ankle after twisting injury unable to bear weight, no chest pain or shortness of breath, since yesterday.",60.28,Moderate,63.85,0.8393
+CASE-0284,4,Minor Acute Ailment,Patient reports mild lower back stiffness after lifting boxes (for the past 4 days); no fever or breathing difficulty.,33.56,Low,38.62,0.788
+CASE-0329,5,Routine Administrative / Follow-up,routine prescription refill request for stable blood pressure medication no acute symptoms. Notes: no complaints or discomfort.,15.75,Low,22.94,0.8436
+CASE-0043,2,High-Risk Febrile / Sepsis / Abdominal,"high fever 104F with rigors confusion and rapid breathing, pain rated 9 out of 10, started 3 hours ago.",81.6,High,71.29,0.7645
+CASE-0167,3,Subacute Clinical Evaluation,Patient reports persistent dry cough with mild wheeze in known asthmatic (since yesterday evening); mild relief with rest.,52.38,Moderate,53.85,0.9192
+CASE-0117,3,Subacute Clinical Evaluation,"persistent dry cough with mild wheeze in known asthmatic, no confusion or neck stiffness, for 3 days.",57.9,Moderate,54.52,0.9009
+CASE-0275,4,Mild Self-Limiting Symptoms,"mild tension headache relieved partially by rest, normal appetite and energy, for 3 days.",31.22,Low,30.86,0.7278
+CASE-0210,3,Moderate Infection / Acute Pain,Patient reports moderate fever 101.5F with productive cough and body aches (for 2 days); feeling fatigued but alert and breathing comfortably.,58.96,Moderate,58.87,0.9097
+CASE-0224,4,Minor Acute Ailment,"itchy localized skin rash on arm without fever or swelling, able to eat drink and walk normally, for the past 4 days.",33.85,Low,36.52,0.8931
+CASE-0105,3,Moderate Infection / Acute Pain,moderate abdominal cramps with repeated watery diarrhea since yesterday. Notes: no chest pain or shortness of breath.,62.59,Moderate,64.86,0.8131
+CASE-0161,3,Subacute Clinical Evaluation,persistent ear pain with mild fever and muffled hearing since yesterday evening. Notes: mild relief with rest.,57.66,Moderate,50.53,0.8922
+CASE-0182,3,Subacute Clinical Evaluation,Patient reports persistent dry cough with mild wheeze in known asthmatic (for 2 days); no confusion or neck stiffness.,54.9,Moderate,55.21,0.9039
+CASE-0392,5,Routine Administrative / Follow-up,Patient reports follow up review of normal routine blood test report (scheduled monthly check); feeling completely well with no new symptoms.,13.42,Low,21.13,0.759
+CASE-0391,5,Minor Chronic / Cosmetic Inquiry,Patient reports routine certificate renewal for fitness checkup (routine query); feeling healthy overall.,13.07,Low,16.15,0.8754
+CASE-0109,3,Subacute Clinical Evaluation,Patient reports persistent dry cough with mild wheeze in known asthmatic (over the last 48 hours); vital signs feel stable.,56.03,Moderate,57.06,0.876
+CASE-0215,3,Subacute Clinical Evaluation,Patient reports moderate migraine headache with nausea and light sensitivity (for 2 days); no confusion or neck stiffness.,55.53,Moderate,56.36,0.8779
+CASE-0165,3,Moderate Infection / Acute Pain,Patient reports painful urination with lower abdominal discomfort and mild fever (for 24 hours); moderate discomfort interfering with sleep.,60.09,Moderate,58.06,0.833
+CASE-0128,3,Moderate Infection / Acute Pain,moderate fever 101.5F with productive cough and body aches for 2 days. Notes: feeling fatigued but alert and breathing comfortably.,57.42,Moderate,55.98,0.8805
+CASE-0095,2,Acute Respiratory / Metabolic Exacerbation,sudden severe eye pain with blurred vision and halos around lights started 3 hours ago. Notes: marked fatigue and dry mouth.,81.93,High,81.02,0.8495
+CASE-0368,5,Routine Administrative / Follow-up,follow up review of normal routine blood test report no acute symptoms. Notes: feeling completely well with no new symptoms.,16.24,Low,20.85,0.872
+CASE-0093,2,High-Risk Febrile / Sepsis / Abdominal,Patient reports persistent chest discomfort on exertion with shortness of breath (started 3 hours ago); unable to keep fluids down.,82.17,High,75.53,0.7412
+CASE-0374,5,Minor Chronic / Cosmetic Inquiry,general question about multivitamin supplementation for 2 weeks. Notes: non urgent inquiry.,6.96,Low,25.46,0.7361
+CASE-0100,2,Acute Respiratory / Metabolic Exacerbation,"sudden severe eye pain with blurred vision and halos around lights, marked fatigue and dry mouth, for 2 hours.",81.89,High,77.09,0.8174
+CASE-0320,4,Mild Self-Limiting Symptoms,mild tension headache relieved partially by rest for 3 days. Notes: stable since onset.,28.83,Low,31.42,0.827
+CASE-0090,2,High-Risk Febrile / Sepsis / Abdominal,Patient reports persistent chest discomfort on exertion with shortness of breath (since last night); pain rated 9 out of 10.,79.37,High,69.19,0.6621
+CASE-0116,3,Subacute Clinical Evaluation,moderate migraine headache with nausea and light sensitivity over the last 48 hours. Notes: vital signs feel stable.,57.75,Moderate,57.64,0.8776
+CASE-0141,3,Moderate Infection / Acute Pain,Patient reports moderate abdominal cramps with repeated watery diarrhea (since yesterday); feeling fatigued but alert and breathing comfortably.,68.49,Moderate,56.91,0.8711
+CASE-0377,5,Routine Administrative / Follow-up,Patient reports follow up review of normal routine blood test report (scheduled monthly check); for routine continuation only.,10.68,Low,18.7,0.8234
+CASE-0303,4,Mild Self-Limiting Symptoms,minor superficial scrape on knee needing dressing advice for 4 days. Notes: very mild intensity.,27.61,Low,30.5,0.8044
+CASE-0048,2,High-Risk Febrile / Sepsis / Abdominal,"severe sharp lower right abdominal pain with persistent vomiting, fever not responding to paracetamol, started 3 hours ago.",84.33,High,82.92,0.8514
+CASE-0213,3,Subacute Clinical Evaluation,Patient reports localized red warm skin swelling on forearm (for 3 days); gradual onset.,56.71,Moderate,51.16,0.8336
+CASE-0325,5,Routine Administrative / Follow-up,"request for general diet and lifestyle advice for mild cholesterol, for routine continuation only, since last month.",15.4,Low,9.77,0.8228
+CASE-0326,5,Routine Administrative / Follow-up,follow up review of normal routine blood test report no acute symptoms. Notes: feeling completely well with no new symptoms.,18.83,Low,22.26,0.8681
+CASE-0350,5,Routine Administrative / Follow-up,"routine prescription refill request for stable blood pressure medication, feeling completely well with no new symptoms, since last month.",12.69,Low,12.68,0.7939
+CASE-0096,2,High-Risk Febrile / Sepsis / Abdominal,persistent chest discomfort on exertion with shortness of breath worsening over 6 hours. Notes: unable to keep fluids down.,83.83,High,75.42,0.6808
+CASE-0258,4,Minor Acute Ailment,mild lower back stiffness after lifting boxes for the past 4 days. Notes: otherwise feeling well.,35.37,Low,42.43,0.7265
+CASE-0357,5,Minor Chronic / Cosmetic Inquiry,Patient reports mild dandruff and scalp dryness (for 1 month); no pain fever or systemic symptoms.,13.31,Low,23.68,0.6465
+CASE-0138,3,Moderate Infection / Acute Pain,Patient reports painful urination with lower abdominal discomfort and mild fever (since yesterday); able to drink fluids slowly.,64.76,Moderate,55.85,0.8441
+CASE-0114,3,Moderate Infection / Acute Pain,"painful urination with lower abdominal discomfort and mild fever, able to drink fluids slowly, for 2 days.",63.31,Moderate,55.6,0.9022
+CASE-0400,5,Routine Administrative / Follow-up,routine prescription refill request for stable blood pressure medication no acute symptoms. Notes: for routine continuation only.,18.07,Low,18.02,0.9099
+CASE-0250,4,Mild Self-Limiting Symptoms,"mild seasonal nasal congestion and watery eyes, normal appetite and energy, for 3 days.",29.08,Low,30.93,0.8869
+CASE-0084,2,Acute Respiratory / Metabolic Exacerbation,pregnant patient with severe headache swelling and blurred vision started 3 hours ago. Notes: symptoms escalating steadily.,76.22,High,74.72,0.7714
+CASE-0365,5,Minor Chronic / Cosmetic Inquiry,"general question about multivitamin supplementation, feeling healthy overall, for several weeks.",15.79,Low,15.07,0.8229
+CASE-0334,5,Routine Administrative / Follow-up,"follow up review of normal routine blood test report, feeling completely well with no new symptoms, no acute symptoms.",16.04,Low,21.73,0.7459
+CASE-0120,3,Moderate Infection / Acute Pain,"painful urination with lower abdominal discomfort and mild fever, no chest pain or shortness of breath, for 24 hours.",61.71,Moderate,59.43,0.8817
+CASE-0015,1,Severe Anaphylaxis / Hemorrhage,rapid tongue and throat swelling with wheezing after medication began 30 minutes ago. Notes: weak and clammy skin.,88.36,High,71.52,0.7552
+CASE-0006,1,Acute Neurological Emergency,Patient reports uncontrolled active seizure episode followed by confusion (for the past 25 minutes); never experienced before.,93.54,High,83.89,0.73
+CASE-0016,1,Acute Neurological Emergency,Patient reports acute facial droop with confusion and loss of balance (noticed 15 minutes ago); never experienced before.,92.4,High,91.33,0.7953
+CASE-0194,3,Moderate Infection / Acute Pain,Patient reports painful swollen ankle after twisting injury unable to bear weight (since yesterday); able to drink fluids slowly.,57.77,Moderate,60.03,0.881
+CASE-0027,1,Acute Cardiopulmonary Distress,severe chest tightness with cold sweats and dizziness for the past 30 minutes. Notes: worsening rapidly.,90.78,High,94.49,0.778
+CASE-0249,4,Mild Self-Limiting Symptoms,"mild seasonal nasal congestion and watery eyes, normal appetite and energy, for 5 days.",28.1,Low,29.84,0.9254
+CASE-0164,3,Subacute Clinical Evaluation,Patient reports persistent ear pain with mild fever and muffled hearing (since yesterday evening); gradual onset.,53.78,Moderate,53.83,0.8366
+CASE-0385,5,Minor Chronic / Cosmetic Inquiry,Patient reports mild dandruff and scalp dryness (for several weeks); non urgent inquiry.,10.1,Low,21.23,0.8357
+CASE-0106,3,Subacute Clinical Evaluation,Patient reports moderate migraine headache with nausea and light sensitivity (over the last 48 hours); vital signs feel stable.,55.63,Moderate,55.82,0.8495
+CASE-0007,1,Severe Anaphylaxis / Hemorrhage,Patient reports vomiting bright red blood with severe dizziness (began 30 minutes ago); feeling faint when standing.,90.93,High,79.24,0.7219
+CASE-0082,2,High-Risk Febrile / Sepsis / Abdominal,Patient reports high fever 104F with rigors confusion and rapid breathing (started 3 hours ago); pain rated 9 out of 10.,79.22,High,73.24,0.759
+CASE-0132,3,Subacute Clinical Evaluation,localized red warm skin swelling on forearm for 3 days. Notes: mild relief with rest.,55.17,Moderate,48.74,0.8721
+CASE-0267,4,Mild Self-Limiting Symptoms,"mild tension headache relieved partially by rest, very mild intensity, for 5 days.",27.44,Low,30.23,0.8936
+CASE-0125,3,Subacute Clinical Evaluation,Patient reports moderate migraine headache with nausea and light sensitivity (over the last 48 hours); no confusion or neck stiffness.,52.3,Moderate,57.95,0.87
+CASE-0234,4,Minor Acute Ailment,mild sore throat with runny nose and occasional sneezing for the past 4 days. Notes: no fever or breathing difficulty.,33.1,Low,44.46,0.7093
+CASE-0201,3,Subacute Clinical Evaluation,Patient reports localized red warm skin swelling on forearm (over the last 48 hours); gradual onset.,54.91,Moderate,56.36,0.8614
+CASE-0244,4,Mild Self-Limiting Symptoms,Patient reports mild seasonal nasal congestion and watery eyes (for 4 days); stable since onset.,26.18,Low,28.61,0.8079
+CASE-0220,3,Subacute Clinical Evaluation,persistent dry cough with mild wheeze in known asthmatic over the last 48 hours. Notes: gradual onset.,56.03,Moderate,57.3,0.9121
+CASE-0205,3,Moderate Infection / Acute Pain,Patient reports moderate fever 101.5F with productive cough and body aches (for 2 days); feeling fatigued but alert and breathing comfortably.,59.71,Moderate,59.43,0.8953
+CASE-0121,3,Moderate Infection / Acute Pain,moderate fever 101.5F with productive cough and body aches over the past 36 hours. Notes: moderate discomfort interfering with sleep.,58.29,Moderate,63.98,0.894
+CASE-0254,4,Mild Self-Limiting Symptoms,"minor superficial scrape on knee needing dressing advice, no red flag symptoms, for 4 days.",27.98,Low,32.58,0.8378
+CASE-0306,4,Mild Self-Limiting Symptoms,mild dry cough without fever or chest pain for 5 days. Notes: no red flag symptoms.,30.36,Low,33.26,0.8395
+CASE-0187,3,Moderate Infection / Acute Pain,painful urination with lower abdominal discomfort and mild fever for 24 hours. Notes: no chest pain or shortness of breath.,63.45,Moderate,61.72,0.8796
+CASE-0261,4,Mild Self-Limiting Symptoms,Patient reports mild dry cough without fever or chest pain (since two days ago); very mild intensity.,27.98,Low,30.99,0.8977
+CASE-0336,5,Routine Administrative / Follow-up,Patient reports routine prescription refill request for stable blood pressure medication (scheduled monthly check); asymptomatic and stable.,18.41,Low,21.39,0.8835
+CASE-0333,5,Routine Administrative / Follow-up,request for general diet and lifestyle advice for mild cholesterol since last month. Notes: for routine continuation only.,10.2,Low,11.88,0.8306
+CASE-0290,4,Mild Self-Limiting Symptoms,"mild dry cough without fever or chest pain, very mild intensity, for 3 days.",32.7,Low,33.98,0.8232
+CASE-0273,4,Minor Acute Ailment,mild acid reflux and bloating after heavy meal for 3 days. Notes: no fever or breathing difficulty.,33.77,Low,37.22,0.8279
+CASE-0137,3,Subacute Clinical Evaluation,Patient reports persistent ear pain with mild fever and muffled hearing (for 3 days); gradual onset.,54.85,Moderate,51.57,0.9159
+CASE-0068,2,High-Risk Febrile / Sepsis / Abdominal,"acute severe flank pain radiating to groin with blood in urine, unable to keep fluids down, worsening over 6 hours.",80.18,High,80.26,0.8613
+CASE-0353,5,Minor Chronic / Cosmetic Inquiry,general question about multivitamin supplementation for several weeks. Notes: completely stable.,10.78,Low,14.37,0.762
+CASE-0092,2,Acute Respiratory / Metabolic Exacerbation,Patient reports pregnant patient with severe headache swelling and blurred vision (since early morning); breathing faster than normal.,83.36,High,66.47,0.7593
+CASE-0246,4,Mild Self-Limiting Symptoms,mild tension headache relieved partially by rest for 5 days. Notes: no red flag symptoms.,28.16,Low,29.78,0.8832
+CASE-0283,4,Minor Acute Ailment,Patient reports mild lower back stiffness after lifting boxes (for 2 days); otherwise feeling well.,33.09,Low,33.76,0.8442
+CASE-0348,5,Minor Chronic / Cosmetic Inquiry,routine certificate renewal for fitness checkup for 1 month. Notes: completely stable.,13.88,Low,14.71,0.7695
+CASE-0051,2,Acute Respiratory / Metabolic Exacerbation,"pregnant patient with severe headache swelling and blurred vision, rescue inhaler giving minimal relief, started 3 hours ago.",79.4,High,81.1,0.8077
+CASE-0319,4,Mild Self-Limiting Symptoms,"mild seasonal nasal congestion and watery eyes, no red flag symptoms, since two days ago.",29.45,Low,35.0,0.8199
+CASE-0280,4,Minor Acute Ailment,Patient reports mild sore throat with runny nose and occasional sneezing (since yesterday); otherwise feeling well.,33.0,Low,39.39,0.7783
+CASE-0360,5,Minor Chronic / Cosmetic Inquiry,mild dandruff and scalp dryness for several weeks. Notes: completely stable.,12.22,Low,13.1,0.7984
+CASE-0259,4,Mild Self-Limiting Symptoms,Patient reports mild dry cough without fever or chest pain (for 4 days); normal appetite and energy.,29.72,Low,28.76,0.9209
+CASE-0009,1,Acute Neurological Emergency,sudden slurred speech and weakness on right side of face and arm noticed 15 minutes ago. Notes: with numbness in left arm and leg.,92.98,High,89.21,0.8003
+CASE-0286,4,Mild Self-Limiting Symptoms,Patient reports minor superficial scrape on knee needing dressing advice (since two days ago); very mild intensity.,30.11,Low,39.4,0.8247
+CASE-0118,3,Subacute Clinical Evaluation,"moderate migraine headache with nausea and light sensitivity, gradual onset, over the last 48 hours.",54.24,Moderate,56.16,0.878
+CASE-0033,1,Acute Neurological Emergency,"sudden slurred speech and weakness on right side of face and arm, patient struggling to stay awake, began 40 minutes ago.",92.68,High,88.01,0.7285
+CASE-0247,4,Minor Acute Ailment,mild acid reflux and bloating after heavy meal for 3 days. Notes: otherwise feeling well.,32.77,Low,40.22,0.8082
+CASE-0040,1,Acute Neurological Emergency,Patient reports sudden slurred speech and weakness on right side of face and arm (for the past 25 minutes); onset was abrupt.,99.0,High,76.45,0.7809
+CASE-0185,3,Moderate Infection / Acute Pain,Patient reports moderate fever 101.5F with productive cough and body aches (for 24 hours); able to drink fluids slowly.,68.37,Moderate,60.57,0.9086
+CASE-0174,3,Subacute Clinical Evaluation,persistent dry cough with mild wheeze in known asthmatic over the last 48 hours. Notes: mild relief with rest.,54.94,Moderate,55.1,0.8953
+CASE-0077,2,Acute Respiratory / Metabolic Exacerbation,"acute asthma flare with audible wheezing and chest tightness, marked fatigue and dry mouth, for 2 hours.",77.61,High,67.12,0.7398
+CASE-0019,1,Acute Neurological Emergency,sudden worst headache of life with blurred vision and vomiting noticed 15 minutes ago. Notes: onset was abrupt.,93.13,High,86.92,0.7677
+CASE-0046,2,Acute Respiratory / Metabolic Exacerbation,diabetic patient with persistent vomiting abdominal pain and drowsiness over the past 5 hours. Notes: rescue inhaler giving minimal relief.,76.04,High,78.79,0.8681
+CASE-0251,4,Minor Acute Ailment,"mild lower back stiffness after lifting boxes, otherwise feeling well, for 2 days.",34.06,Low,35.21,0.8573
+CASE-0260,4,Minor Acute Ailment,Patient reports mild acid reflux and bloating after heavy meal (for 2 days); able to eat drink and walk normally.,26.75,Low,33.71,0.868
+CASE-0014,1,Acute Neurological Emergency,"sudden slurred speech and weakness on right side of face and arm, with numbness in left arm and leg, noticed 15 minutes ago.",95.7,High,83.43,0.686
+CASE-0198,3,Subacute Clinical Evaluation,"persistent ear pain with mild fever and muffled hearing, vital signs feel stable, over the last 48 hours.",58.09,Moderate,56.35,0.8458
+CASE-0399,5,Minor Chronic / Cosmetic Inquiry,"general question about multivitamin supplementation, no pain fever or systemic symptoms, for 1 month.",15.11,Low,19.67,0.7365
+CASE-0236,4,Minor Acute Ailment,Patient reports itchy localized skin rash on arm without fever or swelling (for the past 4 days); mild discomfort only.,32.67,Low,43.22,0.638
+CASE-0337,5,Minor Chronic / Cosmetic Inquiry,"mild dry skin on hands during weather change, feeling healthy overall, routine query.",12.28,Low,14.14,0.8139
+CASE-0037,1,Severe Anaphylaxis / Hemorrhage,rapid tongue and throat swelling with wheezing after medication for 15 minutes. Notes: feeling faint when standing.,89.68,High,72.64,0.6137
+CASE-0074,2,High-Risk Febrile / Sepsis / Abdominal,"severe sharp lower right abdominal pain with persistent vomiting, feeling extremely weak and lethargic, since last night.",86.32,High,77.73,0.8751
+CASE-0229,4,Minor Acute Ailment,mild acid reflux and bloating after heavy meal for 2 days. Notes: able to eat drink and walk normally.,37.49,Low,32.45,0.9159
+CASE-0339,5,Routine Administrative / Follow-up,Patient reports routine prescription refill request for stable blood pressure medication (scheduled monthly check); for routine continuation only.,15.36,Low,19.03,0.9088
+CASE-0176,3,Subacute Clinical Evaluation,Patient reports persistent dry cough with mild wheeze in known asthmatic (over the last 48 hours); gradual onset.,51.56,Moderate,56.69,0.8847
+CASE-0199,3,Moderate Infection / Acute Pain,"moderate fever 101.5F with productive cough and body aches, able to drink fluids slowly, for 24 hours.",63.05,Moderate,61.27,0.8563
+CASE-0369,5,Minor Chronic / Cosmetic Inquiry,mild dry skin on hands during weather change routine query. Notes: feeling healthy overall.,11.71,Low,16.82,0.863
+CASE-0108,3,Subacute Clinical Evaluation,moderate migraine headache with nausea and light sensitivity for 2 days. Notes: vital signs feel stable.,54.14,Moderate,52.51,0.9172
+CASE-0160,3,Subacute Clinical Evaluation,moderate migraine headache with nausea and light sensitivity since yesterday evening. Notes: mild relief with rest.,55.6,Moderate,52.43,0.8748
+CASE-0233,4,Minor Acute Ailment,"itchy localized skin rash on arm without fever or swelling, otherwise feeling well, for the past 4 days.",35.49,Low,46.85,0.5693
+CASE-0341,5,Routine Administrative / Follow-up,Patient reports routine medication renewal for well controlled thyroid condition (no acute symptoms); no complaints or discomfort.,15.09,Low,31.14,0.7731
+CASE-0394,5,Minor Chronic / Cosmetic Inquiry,"mild dandruff and scalp dryness, feeling healthy overall, for several weeks.",13.41,Low,17.86,0.8575
+CASE-0133,3,Moderate Infection / Acute Pain,Patient reports painful swollen ankle after twisting injury unable to bear weight (for 2 days); feeling fatigued but alert and breathing comfortably.,62.87,Moderate,57.37,0.8407
+CASE-0316,4,Mild Self-Limiting Symptoms,"mild seasonal nasal congestion and watery eyes, no red flag symptoms, for 4 days.",30.08,Low,30.09,0.7895
+CASE-0122,3,Subacute Clinical Evaluation,"localized red warm skin swelling on forearm, gradual onset, for 2 days.",57.87,Moderate,52.24,0.8779
+CASE-0207,3,Subacute Clinical Evaluation,persistent ear pain with mild fever and muffled hearing since yesterday evening. Notes: mild relief with rest.,53.56,Moderate,54.16,0.886
+CASE-0322,5,Minor Chronic / Cosmetic Inquiry,Patient reports general question about multivitamin supplementation (for 2 weeks); completely stable.,13.5,Low,16.37,0.7527
+CASE-0008,1,Severe Anaphylaxis / Hemorrhage,Patient reports severe allergic reaction with hives and difficulty swallowing (over the past 20 minutes); feeling faint when standing.,92.91,High,85.74,0.7498
+CASE-0299,4,Minor Acute Ailment,itchy localized skin rash on arm without fever or swelling for the past 4 days. Notes: otherwise feeling well.,34.54,Low,36.92,0.9198
+CASE-0208,3,Moderate Infection / Acute Pain,"painful urination with lower abdominal discomfort and mild fever, feeling fatigued but alert and breathing comfortably, for 24 hours.",61.45,Moderate,58.26,0.8549
+CASE-0285,4,Minor Acute Ailment,Patient reports mild acid reflux and bloating after heavy meal (for 3 days); mild discomfort only.,35.76,Low,29.22,0.7617
+CASE-0380,5,Minor Chronic / Cosmetic Inquiry,"mild dandruff and scalp dryness, completely stable, for 2 weeks.",13.54,Low,11.81,0.7728
+CASE-0294,4,Minor Acute Ailment,"mild lower back stiffness after lifting boxes, able to eat drink and walk normally, for 3 days.",33.85,Low,33.41,0.8902
+CASE-0317,4,Minor Acute Ailment,"mild lower back stiffness after lifting boxes, able to eat drink and walk normally, for the past 4 days.",29.5,Low,40.63,0.7753
+CASE-0130,3,Moderate Infection / Acute Pain,moderate abdominal cramps with repeated watery diarrhea over the past 36 hours. Notes: able to drink fluids slowly.,61.53,Moderate,65.26,0.8916
+CASE-0049,2,Acute Respiratory / Metabolic Exacerbation,diabetic patient with persistent vomiting abdominal pain and drowsiness over the past 5 hours. Notes: marked fatigue and dry mouth.,77.36,High,76.58,0.8895
+CASE-0066,2,High-Risk Febrile / Sepsis / Abdominal,persistent chest discomfort on exertion with shortness of breath for the past 4 hours. Notes: pain rated 9 out of 10.,86.69,High,72.72,0.7286
+CASE-0195,3,Subacute Clinical Evaluation,persistent dry cough with mild wheeze in known asthmatic for 3 days. Notes: mild relief with rest.,55.8,Moderate,51.99,0.8663
+CASE-0079,2,Acute Respiratory / Metabolic Exacerbation,diabetic patient with persistent vomiting abdominal pain and drowsiness over the past 5 hours. Notes: symptoms escalating steadily.,77.2,High,70.61,0.8175
+CASE-0173,3,Subacute Clinical Evaluation,"moderate migraine headache with nausea and light sensitivity, vital signs feel stable, over the last 48 hours.",56.62,Moderate,56.99,0.9103
+CASE-0331,5,Minor Chronic / Cosmetic Inquiry,"mild dandruff and scalp dryness, completely stable, for 1 month.",11.59,Low,21.02,0.8511
+CASE-0183,3,Moderate Infection / Acute Pain,"moderate fever 101.5F with productive cough and body aches, moderate discomfort interfering with sleep, over the past 36 hours.",63.18,Moderate,64.15,0.8521
+CASE-0018,1,Severe Anaphylaxis / Hemorrhage,severe allergic reaction with hives and difficulty swallowing started 10 minutes ago. Notes: heart racing rapidly.,92.41,High,89.82,0.8466
+CASE-0370,5,Minor Chronic / Cosmetic Inquiry,mild dandruff and scalp dryness for 1 month. Notes: feeling healthy overall.,13.63,Low,24.51,0.8083
+CASE-0056,2,Acute Respiratory / Metabolic Exacerbation,Patient reports sudden severe eye pain with blurred vision and halos around lights (since early morning); rescue inhaler giving minimal relief.,76.23,High,76.23,0.747
+CASE-0346,5,Minor Chronic / Cosmetic Inquiry,"general question about multivitamin supplementation, no pain fever or systemic symptoms, for 2 weeks.",11.21,Low,16.02,0.7026
+CASE-0050,2,High-Risk Febrile / Sepsis / Abdominal,"high fever 104F with rigors confusion and rapid breathing, unable to keep fluids down, worsening over 6 hours.",78.94,High,73.5,0.665
+CASE-0221,4,Minor Acute Ailment,mild acid reflux and bloating after heavy meal for 3 days. Notes: mild discomfort only.,37.46,Low,31.07,0.7432
+CASE-0328,5,Routine Administrative / Follow-up,Patient reports routine prescription refill request for stable blood pressure medication (scheduled monthly check); feeling completely well with no new symptoms.,15.41,Low,16.6,0.7881
+CASE-0371,5,Routine Administrative / Follow-up,Patient reports request for general diet and lifestyle advice for mild cholesterol (scheduled monthly check); asymptomatic and stable.,15.06,Low,23.08,0.7866
+CASE-0232,4,Mild Self-Limiting Symptoms,Patient reports mild seasonal nasal congestion and watery eyes (for 5 days); no red flag symptoms.,30.28,Low,27.15,0.7843
+CASE-0022,1,Acute Cardiopulmonary Distress,Patient reports acute chest pressure with nausea and near fainting (for the past 30 minutes); accompanied by profuse sweating and pallor.,93.93,High,87.55,0.7562
+CASE-0344,5,Minor Chronic / Cosmetic Inquiry,"mild dry skin on hands during weather change, completely stable, for 1 month.",13.04,Low,18.44,0.8124
+CASE-0150,3,Subacute Clinical Evaluation,localized red warm skin swelling on forearm over the last 48 hours. Notes: vital signs feel stable.,52.1,Moderate,56.83,0.8965
+CASE-0330,5,Minor Chronic / Cosmetic Inquiry,mild dry skin on hands during weather change for 2 weeks. Notes: no pain fever or systemic symptoms.,9.76,Low,15.24,0.782
+CASE-0266,4,Minor Acute Ailment,"itchy localized skin rash on arm without fever or swelling, no fever or breathing difficulty, for 3 days.",30.31,Low,43.68,0.765
+CASE-0359,5,Minor Chronic / Cosmetic Inquiry,routine certificate renewal for fitness checkup for 2 weeks. Notes: feeling healthy overall.,9.04,Low,12.68,0.8838
+CASE-0112,3,Subacute Clinical Evaluation,localized red warm skin swelling on forearm for 2 days. Notes: mild relief with rest.,56.27,Moderate,48.74,0.8721
+CASE-0064,2,Acute Respiratory / Metabolic Exacerbation,sudden severe eye pain with blurred vision and halos around lights started 3 hours ago. Notes: breathing faster than normal.,78.44,High,81.97,0.8496
+CASE-0361,5,Minor Chronic / Cosmetic Inquiry,Patient reports general question about multivitamin supplementation (routine query); feeling healthy overall.,13.43,Low,24.81,0.8922
+CASE-0362,5,Routine Administrative / Follow-up,"routine prescription refill request for stable blood pressure medication, feeling completely well with no new symptoms, since last month.",19.19,Low,15.37,0.8296
+CASE-0279,4,Mild Self-Limiting Symptoms,Patient reports mild dry cough without fever or chest pain (for 5 days); very mild intensity.,32.43,Low,29.13,0.9305
+CASE-0389,5,Routine Administrative / Follow-up,"routine prescription refill request for stable blood pressure medication, for routine continuation only, since last month.",17.03,Low,15.24,0.8734
+CASE-0013,1,Severe Anaphylaxis / Hemorrhage,severe allergic reaction with hives and difficulty swallowing began 30 minutes ago. Notes: breathing becoming noisy.,92.55,High,93.58,0.7501
+CASE-0324,5,Minor Chronic / Cosmetic Inquiry,Patient reports routine certificate renewal for fitness checkup (for 1 month); feeling healthy overall.,14.1,Low,18.69,0.8162
+CASE-0396,5,Routine Administrative / Follow-up,Patient reports routine medication renewal for well controlled thyroid condition (no acute symptoms); feeling completely well with no new symptoms.,14.73,Low,28.7,0.6665
+CASE-0005,1,Acute Neurological Emergency,"acute facial droop with confusion and loss of balance, patient struggling to stay awake, started 20 minutes ago.",91.6,High,96.62,0.8275
+CASE-0311,4,Mild Self-Limiting Symptoms,Patient reports mild dry cough without fever or chest pain (for 4 days); normal appetite and energy.,28.85,Low,30.46,0.9037
+CASE-0062,2,Acute Respiratory / Metabolic Exacerbation,diabetic patient with persistent vomiting abdominal pain and drowsiness over the past 5 hours. Notes: rescue inhaler giving minimal relief.,77.79,High,78.79,0.8681
+CASE-0091,2,High-Risk Febrile / Sepsis / Abdominal,severe sharp lower right abdominal pain with persistent vomiting started 3 hours ago. Notes: fever not responding to paracetamol.,86.33,High,82.67,0.9019
+CASE-0115,3,Subacute Clinical Evaluation,Patient reports persistent dry cough with mild wheeze in known asthmatic (for 2 days); mild relief with rest.,56.14,Moderate,53.41,0.9571
+CASE-0226,4,Minor Acute Ailment,mild acid reflux and bloating after heavy meal for 3 days. Notes: mild discomfort only.,36.4,Low,31.07,0.7432
+CASE-0024,1,Acute Neurological Emergency,"acute facial droop with confusion and loss of balance, onset was abrupt, for the past 25 minutes.",93.05,High,84.15,0.7847
+CASE-0271,4,Minor Acute Ailment,Patient reports itchy localized skin rash on arm without fever or swelling (for 3 days); able to eat drink and walk normally.,34.03,Low,35.86,0.8619
+CASE-0356,5,Minor Chronic / Cosmetic Inquiry,mild dry skin on hands during weather change for 1 month. Notes: feeling healthy overall.,15.23,Low,18.77,0.8337
+CASE-0088,2,High-Risk Febrile / Sepsis / Abdominal,"high fever 104F with rigors confusion and rapid breathing, pain rated 9 out of 10, for the past 4 hours.",77.61,High,71.0,0.7264
+CASE-0222,4,Mild Self-Limiting Symptoms,mild tension headache relieved partially by rest since two days ago. Notes: normal appetite and energy.,31.14,Low,31.39,0.8437
+CASE-0287,4,Mild Self-Limiting Symptoms,Patient reports mild dry cough without fever or chest pain (for 5 days); very mild intensity.,30.84,Low,29.13,0.9305
+CASE-0277,4,Mild Self-Limiting Symptoms,mild seasonal nasal congestion and watery eyes for 3 days. Notes: very mild intensity.,29.96,Low,31.68,0.8851
+CASE-0003,1,Severe Anaphylaxis / Hemorrhage,severe allergic reaction with hives and difficulty swallowing started 10 minutes ago. Notes: heart racing rapidly.,94.2,High,92.94,0.7623
+CASE-0154,3,Subacute Clinical Evaluation,"persistent dry cough with mild wheeze in known asthmatic, gradual onset, for 3 days.",59.51,Moderate,53.3,0.9151
+CASE-0304,4,Mild Self-Limiting Symptoms,mild tension headache relieved partially by rest for 4 days. Notes: stable since onset.,26.61,Low,31.48,0.8691
+CASE-0186,3,Moderate Infection / Acute Pain,Patient reports painful swollen ankle after twisting injury unable to bear weight (over the past 36 hours); able to drink fluids slowly.,61.22,Moderate,64.62,0.8859
+CASE-0123,3,Subacute Clinical Evaluation,persistent dry cough with mild wheeze in known asthmatic over the last 48 hours. Notes: no confusion or neck stiffness.,59.32,Moderate,57.31,0.8865
+CASE-0310,4,Minor Acute Ailment,Patient reports mild lower back stiffness after lifting boxes (for 3 days); mild discomfort only.,36.64,Low,28.87,0.8784
+CASE-0297,4,Mild Self-Limiting Symptoms,mild dry cough without fever or chest pain for 3 days. Notes: stable since onset.,29.13,Low,33.86,0.7984
+CASE-0107,3,Moderate Infection / Acute Pain,"moderate fever 101.5F with productive cough and body aches, moderate discomfort interfering with sleep, for 2 days.",59.35,Moderate,58.89,0.8628
+CASE-0053,2,High-Risk Febrile / Sepsis / Abdominal,Patient reports acute severe flank pain radiating to groin with blood in urine (worsening over 6 hours); pain rated 9 out of 10.,83.07,High,77.79,0.8039
+CASE-0272,4,Mild Self-Limiting Symptoms,"mild dry cough without fever or chest pain, normal appetite and energy, for 5 days.",29.02,Low,33.17,0.8816
+CASE-0101,3,Moderate Infection / Acute Pain,moderate abdominal cramps with repeated watery diarrhea since yesterday. Notes: able to drink fluids slowly.,62.18,Moderate,58.47,0.8368
+CASE-0104,3,Moderate Infection / Acute Pain,Patient reports painful urination with lower abdominal discomfort and mild fever (over the past 36 hours); no chest pain or shortness of breath.,60.57,Moderate,63.98,0.8188
+CASE-0237,4,Mild Self-Limiting Symptoms,mild dry cough without fever or chest pain for 5 days. Notes: no red flag symptoms.,28.49,Low,31.78,0.8682
+CASE-0227,4,Minor Acute Ailment,"mild acid reflux and bloating after heavy meal, no fever or breathing difficulty, since yesterday.",33.51,Low,43.76,0.813
+CASE-0257,4,Mild Self-Limiting Symptoms,"mild tension headache relieved partially by rest, no red flag symptoms, for 5 days.",28.74,Low,30.9,0.8536
+CASE-0395,5,Minor Chronic / Cosmetic Inquiry,"routine certificate renewal for fitness checkup, feeling healthy overall, for 2 weeks.",16.78,Low,8.42,0.8778
+CASE-0094,2,Acute Respiratory / Metabolic Exacerbation,acute asthma flare with audible wheezing and chest tightness for 2 hours. Notes: breathing faster than normal.,76.05,High,64.87,0.8222
+CASE-0293,4,Minor Acute Ailment,Patient reports mild lower back stiffness after lifting boxes (since yesterday); no fever or breathing difficulty.,31.96,Low,37.81,0.8169
+CASE-0228,4,Minor Acute Ailment,"itchy localized skin rash on arm without fever or swelling, mild discomfort only, for 2 days.",33.15,Low,35.97,0.6152
+CASE-0383,5,Routine Administrative / Follow-up,"routine prescription refill request for stable blood pressure medication, asymptomatic and stable, since last month.",17.01,Low,17.4,0.8646
+CASE-0149,3,Subacute Clinical Evaluation,"localized red warm skin swelling on forearm, mild relief with rest, over the last 48 hours.",57.09,Moderate,54.52,0.8893
+CASE-0042,2,High-Risk Febrile / Sepsis / Abdominal,Patient reports acute severe flank pain radiating to groin with blood in urine (worsening over 6 hours); pain rated 9 out of 10.,80.47,High,78.17,0.7818
+CASE-0131,3,Subacute Clinical Evaluation,"moderate migraine headache with nausea and light sensitivity, vital signs feel stable, for 2 days.",55.14,Moderate,54.18,0.8677
+CASE-0070,2,Acute Respiratory / Metabolic Exacerbation,Patient reports pregnant patient with severe headache swelling and blurred vision (started 3 hours ago); symptoms escalating steadily.,77.68,High,73.32,0.7642
+CASE-0298,4,Mild Self-Limiting Symptoms,"mild dry cough without fever or chest pain, normal appetite and energy, for 4 days.",30.55,Low,31.42,0.877
+CASE-0196,3,Moderate Infection / Acute Pain,"painful urination with lower abdominal discomfort and mild fever, feeling fatigued but alert and breathing comfortably, over the past 36 hours.",63.21,Moderate,62.19,0.8326
+CASE-0097,2,Acute Respiratory / Metabolic Exacerbation,pregnant patient with severe headache swelling and blurred vision for 2 hours. Notes: marked fatigue and dry mouth.,77.7,High,73.54,0.7179
+CASE-0045,2,High-Risk Febrile / Sepsis / Abdominal,severe sharp lower right abdominal pain with persistent vomiting worsening over 6 hours. Notes: unable to keep fluids down.,82.33,High,87.28,0.8514
+CASE-0315,4,Minor Acute Ailment,mild lower back stiffness after lifting boxes since yesterday. Notes: able to eat drink and walk normally.,36.59,Low,36.09,0.9008
+CASE-0017,1,Acute Cardiopulmonary Distress,Patient reports crushing chest pain radiating to left arm and jaw (started 15 minutes ago); worsening rapidly.,97.42,High,89.77,0.6811
+CASE-0278,4,Mild Self-Limiting Symptoms,Patient reports mild dry cough without fever or chest pain (for 5 days); very mild intensity.,30.13,Low,31.67,0.8136
+CASE-0200,3,Moderate Infection / Acute Pain,painful urination with lower abdominal discomfort and mild fever over the past 36 hours. Notes: moderate discomfort interfering with sleep.,64.04,Moderate,62.23,0.8597
+CASE-0248,4,Mild Self-Limiting Symptoms,"mild seasonal nasal congestion and watery eyes, normal appetite and energy, since two days ago.",36.95,Low,34.8,0.7297
+CASE-0197,3,Moderate Infection / Acute Pain,"moderate abdominal cramps with repeated watery diarrhea, moderate discomfort interfering with sleep, over the past 36 hours.",62.68,Moderate,64.45,0.7795
+CASE-0240,4,Minor Acute Ailment,mild lower back stiffness after lifting boxes for 3 days. Notes: no fever or breathing difficulty.,31.8,Low,37.85,0.8017
+CASE-0058,2,Acute Respiratory / Metabolic Exacerbation,"diabetic patient with persistent vomiting abdominal pain and drowsiness, rescue inhaler giving minimal relief, started 3 hours ago.",82.52,High,81.99,0.7964
+CASE-0291,4,Mild Self-Limiting Symptoms,Patient reports minor superficial scrape on knee needing dressing advice (since two days ago); very mild intensity.,29.88,Low,39.4,0.8247
+CASE-0063,2,Acute Respiratory / Metabolic Exacerbation,Patient reports diabetic patient with persistent vomiting abdominal pain and drowsiness (since early morning); rescue inhaler giving minimal relief.,82.34,High,72.23,0.8729
+CASE-0075,2,High-Risk Febrile / Sepsis / Abdominal,severe sharp lower right abdominal pain with persistent vomiting for the past 4 hours. Notes: fever not responding to paracetamol.,83.09,High,81.4,0.8618
+CASE-0231,4,Minor Acute Ailment,"mild acid reflux and bloating after heavy meal, able to eat drink and walk normally, since yesterday.",32.62,Low,36.97,0.8863
+CASE-0001,1,Acute Cardiopulmonary Distress,Patient reports acute chest pressure with nausea and near fainting (for the past 30 minutes); with palpitations and lightheadedness.,97.35,High,86.22,0.658
+CASE-0055,2,Acute Respiratory / Metabolic Exacerbation,"acute asthma flare with audible wheezing and chest tightness, rescue inhaler giving minimal relief, for 2 hours.",78.55,High,72.36,0.7076
+CASE-0340,5,Minor Chronic / Cosmetic Inquiry,Patient reports general question about multivitamin supplementation (for 2 weeks); non urgent inquiry.,9.85,Low,30.83,0.7603
+CASE-0025,1,Severe Anaphylaxis / Hemorrhage,heavy uncontrolled bleeding from deep laceration over the past 20 minutes. Notes: heart racing rapidly.,92.03,High,78.11,0.6352
+CASE-0301,4,Mild Self-Limiting Symptoms,"minor superficial scrape on knee needing dressing advice, normal appetite and energy, since two days ago.",31.97,Low,34.42,0.7149
+CASE-0044,2,Acute Respiratory / Metabolic Exacerbation,"diabetic patient with persistent vomiting abdominal pain and drowsiness, marked fatigue and dry mouth, since early morning.",77.78,High,70.86,0.8431
+CASE-0300,4,Minor Acute Ailment,itchy localized skin rash on arm without fever or swelling for the past 4 days. Notes: mild discomfort only.,27.55,Low,41.48,0.6622
+CASE-0169,3,Subacute Clinical Evaluation,moderate migraine headache with nausea and light sensitivity over the last 48 hours. Notes: mild relief with rest.,59.12,Moderate,54.56,0.8914
+CASE-0129,3,Moderate Infection / Acute Pain,moderate fever 101.5F with productive cough and body aches for 2 days. Notes: able to drink fluids slowly.,59.33,Moderate,58.09,0.8928
+CASE-0147,3,Subacute Clinical Evaluation,persistent ear pain with mild fever and muffled hearing over the last 48 hours. Notes: vital signs feel stable.,59.41,Moderate,54.21,0.8858
+CASE-0256,4,Minor Acute Ailment,Patient reports mild sore throat with runny nose and occasional sneezing (for 2 days); otherwise feeling well.,28.27,Low,36.67,0.8026
+CASE-0214,3,Moderate Infection / Acute Pain,"moderate fever 101.5F with productive cough and body aches, moderate discomfort interfering with sleep, since yesterday.",59.2,Moderate,60.6,0.8686
+CASE-0206,3,Moderate Infection / Acute Pain,"painful urination with lower abdominal discomfort and mild fever, no chest pain or shortness of breath, for 24 hours.",61.39,Moderate,58.8,0.8771
+CASE-0355,5,Minor Chronic / Cosmetic Inquiry,Patient reports mild dry skin on hands during weather change (for 2 weeks); no pain fever or systemic symptoms.,9.01,Low,13.2,0.7137
+CASE-0347,5,Minor Chronic / Cosmetic Inquiry,mild dandruff and scalp dryness for 2 weeks. Notes: feeling healthy overall.,15.83,Low,19.84,0.8319
+CASE-0041,2,High-Risk Febrile / Sepsis / Abdominal,Patient reports acute severe flank pain radiating to groin with blood in urine (worsening over 6 hours); unable to keep fluids down.,82.67,High,78.5,0.7944
+CASE-0309,4,Mild Self-Limiting Symptoms,Patient reports mild tension headache relieved partially by rest (since two days ago); very mild intensity.,29.3,Low,31.04,0.8427
+CASE-0081,2,High-Risk Febrile / Sepsis / Abdominal,high fever 104F with rigors confusion and rapid breathing worsening over 6 hours. Notes: feeling extremely weak and lethargic.,80.09,High,68.67,0.7447
+CASE-0378,5,Minor Chronic / Cosmetic Inquiry,mild dry skin on hands during weather change for 2 weeks. Notes: non urgent inquiry.,8.06,Low,17.87,0.8015
+CASE-0342,5,Routine Administrative / Follow-up,Patient reports routine medication renewal for well controlled thyroid condition (ongoing routine care); for routine continuation only.,15.71,Low,22.47,0.7204
+CASE-0180,3,Moderate Infection / Acute Pain,painful swollen ankle after twisting injury unable to bear weight for 24 hours. Notes: no chest pain or shortness of breath.,63.12,Moderate,64.17,0.8634
+CASE-0373,5,Minor Chronic / Cosmetic Inquiry,mild dry skin on hands during weather change routine query. Notes: feeling healthy overall.,11.45,Low,14.55,0.7964
+CASE-0212,3,Subacute Clinical Evaluation,"moderate migraine headache with nausea and light sensitivity, vital signs feel stable, for 2 days.",50.3,Moderate,53.95,0.8741
+CASE-0139,3,Moderate Infection / Acute Pain,Patient reports moderate abdominal cramps with repeated watery diarrhea (over the past 36 hours); able to drink fluids slowly.,61.29,Moderate,65.38,0.8428
+CASE-0252,4,Minor Acute Ailment,mild sore throat with runny nose and occasional sneezing for 2 days. Notes: able to eat drink and walk normally.,30.54,Low,34.41,0.8618
+CASE-0038,1,Acute Cardiopulmonary Distress,Patient reports acute chest pressure with nausea and near fainting (for the past 30 minutes); with palpitations and lightheadedness.,96.59,High,86.77,0.6406
+CASE-0302,4,Minor Acute Ailment,itchy localized skin rash on arm without fever or swelling for 3 days. Notes: able to eat drink and walk normally.,34.21,Low,35.22,0.8524
+CASE-0189,3,Subacute Clinical Evaluation,persistent dry cough with mild wheeze in known asthmatic since yesterday evening. Notes: mild relief with rest.,55.64,Moderate,53.52,0.8882
+CASE-0162,3,Subacute Clinical Evaluation,Patient reports persistent dry cough with mild wheeze in known asthmatic (since yesterday evening); gradual onset.,56.74,Moderate,53.44,0.899
+CASE-0072,2,Acute Respiratory / Metabolic Exacerbation,"diabetic patient with persistent vomiting abdominal pain and drowsiness, breathing faster than normal, over the past 5 hours.",75.78,High,75.83,0.8396
+CASE-0312,4,Minor Acute Ailment,mild sore throat with runny nose and occasional sneezing for 3 days. Notes: able to eat drink and walk normally.,36.61,Low,34.41,0.8618
+CASE-0245,4,Mild Self-Limiting Symptoms,mild dry cough without fever or chest pain for 4 days. Notes: very mild intensity.,28.18,Low,31.65,0.9033
+CASE-0216,3,Moderate Infection / Acute Pain,"moderate fever 101.5F with productive cough and body aches, moderate discomfort interfering with sleep, for 2 days.",63.94,Moderate,58.89,0.8628
+CASE-0349,5,Routine Administrative / Follow-up,Patient reports routine prescription refill request for stable blood pressure medication (no acute symptoms); no complaints or discomfort.,13.68,Low,21.48,0.8894
+CASE-0029,1,Acute Neurological Emergency,Patient reports uncontrolled active seizure episode followed by confusion (noticed 15 minutes ago); patient struggling to stay awake.,97.25,High,89.24,0.8701
+CASE-0352,5,Routine Administrative / Follow-up,Patient reports routine prescription refill request for stable blood pressure medication (ongoing routine care); no complaints or discomfort.,13.8,Low,18.14,0.8909
+CASE-0282,4,Mild Self-Limiting Symptoms,"minor superficial scrape on knee needing dressing advice, very mild intensity, for 4 days.",25.59,Low,29.26,0.9226
+CASE-0175,3,Moderate Infection / Acute Pain,Patient reports moderate fever 101.5F with productive cough and body aches (for 2 days); able to drink fluids slowly.,60.7,Moderate,58.15,0.9055
+CASE-0292,4,Minor Acute Ailment,Patient reports mild sore throat with runny nose and occasional sneezing (since yesterday); mild discomfort only.,33.33,Low,31.72,0.853
+CASE-0241,4,Mild Self-Limiting Symptoms,mild tension headache relieved partially by rest for 4 days. Notes: stable since onset.,26.09,Low,31.38,0.8649
+CASE-0142,3,Subacute Clinical Evaluation,persistent dry cough with mild wheeze in known asthmatic over the last 48 hours. Notes: mild relief with rest.,56.23,Moderate,55.79,0.9267
+CASE-0073,2,Acute Respiratory / Metabolic Exacerbation,sudden severe eye pain with blurred vision and halos around lights started 3 hours ago. Notes: symptoms escalating steadily.,76.07,High,77.19,0.8854
+CASE-0307,4,Minor Acute Ailment,"mild acid reflux and bloating after heavy meal, otherwise feeling well, for the past 4 days.",32.49,Low,38.37,0.8669
+CASE-0217,3,Subacute Clinical Evaluation,persistent ear pain with mild fever and muffled hearing for 2 days. Notes: no confusion or neck stiffness.,58.5,Moderate,50.54,0.8514
+CASE-0113,3,Moderate Infection / Acute Pain,Patient reports painful urination with lower abdominal discomfort and mild fever (for 24 hours); no chest pain or shortness of breath.,58.0,Moderate,63.06,0.9253
+CASE-0269,4,Mild Self-Limiting Symptoms,"mild seasonal nasal congestion and watery eyes, very mild intensity, for 3 days.",28.21,Low,26.59,0.9077
+CASE-0314,4,Minor Acute Ailment,"mild lower back stiffness after lifting boxes, otherwise feeling well, for 3 days.",33.57,Low,36.54,0.8586
+CASE-0039,1,Acute Cardiopulmonary Distress,Patient reports crushing chest pain radiating to left arm and jaw (worsening over the last hour); worsening rapidly.,95.78,High,65.94,0.7455
+CASE-0276,4,Mild Self-Limiting Symptoms,Patient reports mild dry cough without fever or chest pain (for 3 days); very mild intensity.,29.72,Low,31.67,0.8136
+CASE-0135,3,Subacute Clinical Evaluation,Patient reports localized red warm skin swelling on forearm (since yesterday evening); no confusion or neck stiffness.,56.83,Moderate,55.77,0.7734
+CASE-0281,4,Mild Self-Limiting Symptoms,"mild dry cough without fever or chest pain, stable since onset, for 3 days.",26.49,Low,32.71,0.8634
+CASE-0146,3,Moderate Infection / Acute Pain,"painful urination with lower abdominal discomfort and mild fever, feeling fatigued but alert and breathing comfortably, over the past 36 hours.",57.42,Moderate,62.19,0.8326
+CASE-0192,3,Subacute Clinical Evaluation,Patient reports localized red warm skin swelling on forearm (for 2 days); no confusion or neck stiffness.,53.24,Moderate,56.18,0.8909
+CASE-0242,4,Mild Self-Limiting Symptoms,minor superficial scrape on knee needing dressing advice for 4 days. Notes: normal appetite and energy.,29.07,Low,31.42,0.8263
+CASE-0398,5,Routine Administrative / Follow-up,"routine prescription refill request for stable blood pressure medication, asymptomatic and stable, ongoing routine care.",15.05,Low,16.7,0.8527
+CASE-0143,3,Moderate Infection / Acute Pain,painful swollen ankle after twisting injury unable to bear weight over the past 36 hours. Notes: moderate discomfort interfering with sleep.,60.05,Moderate,66.72,0.8175
+CASE-0335,5,Minor Chronic / Cosmetic Inquiry,Patient reports mild dry skin on hands during weather change (for 2 weeks); feeling healthy overall.,14.55,Low,14.1,0.832
+CASE-0318,4,Mild Self-Limiting Symptoms,"mild seasonal nasal congestion and watery eyes, stable since onset, since two days ago.",28.31,Low,37.14,0.7865
+CASE-0381,5,Minor Chronic / Cosmetic Inquiry,Patient reports general question about multivitamin supplementation (routine query); no pain fever or systemic symptoms.,9.51,Low,29.33,0.6231
+CASE-0086,2,Acute Respiratory / Metabolic Exacerbation,Patient reports sudden severe eye pain with blurred vision and halos around lights (started 3 hours ago); rescue inhaler giving minimal relief.,79.38,High,83.38,0.8659
+CASE-0262,4,Mild Self-Limiting Symptoms,"mild tension headache relieved partially by rest, normal appetite and energy, for 5 days.",31.62,Low,30.86,0.7278
+CASE-0103,3,Moderate Infection / Acute Pain,painful swollen ankle after twisting injury unable to bear weight for 2 days. Notes: moderate discomfort interfering with sleep.,65.69,Moderate,55.19,0.8516
+CASE-0225,4,Mild Self-Limiting Symptoms,minor superficial scrape on knee needing dressing advice for 3 days. Notes: normal appetite and energy.,25.8,Low,30.0,0.7857
+CASE-0087,2,Acute Respiratory / Metabolic Exacerbation,pregnant patient with severe headache swelling and blurred vision since early morning. Notes: symptoms escalating steadily.,79.44,High,64.11,0.8193
+CASE-0202,3,Subacute Clinical Evaluation,Patient reports localized red warm skin swelling on forearm (for 2 days); no confusion or neck stiffness.,59.75,Moderate,55.03,0.8219
+CASE-0354,5,Minor Chronic / Cosmetic Inquiry,routine certificate renewal for fitness checkup for 2 weeks. Notes: feeling healthy overall.,5.37,Low,15.98,0.825
+CASE-0078,2,High-Risk Febrile / Sepsis / Abdominal,severe sharp lower right abdominal pain with persistent vomiting worsening over 6 hours. Notes: feeling extremely weak and lethargic.,82.39,High,84.26,0.8536
+CASE-0126,3,Moderate Infection / Acute Pain,"moderate fever 101.5F with productive cough and body aches, feeling fatigued but alert and breathing comfortably, for 2 days.",64.01,Moderate,58.15,0.9157
+CASE-0397,5,Minor Chronic / Cosmetic Inquiry,mild dandruff and scalp dryness for several weeks. Notes: non urgent inquiry.,14.29,Low,18.67,0.6997
+CASE-0177,3,Moderate Infection / Acute Pain,Patient reports painful urination with lower abdominal discomfort and mild fever (for 24 hours); feeling fatigued but alert and breathing comfortably.,60.43,Moderate,58.32,0.8773
+CASE-0239,4,Mild Self-Limiting Symptoms,Patient reports mild tension headache relieved partially by rest (for 4 days); stable since onset.,29.61,Low,29.36,0.8333
+CASE-0268,4,Minor Acute Ailment,mild acid reflux and bloating after heavy meal for 2 days. Notes: mild discomfort only.,36.59,Low,31.07,0.7432
+CASE-0384,5,Minor Chronic / Cosmetic Inquiry,mild dandruff and scalp dryness routine query. Notes: completely stable.,11.49,Low,15.36,0.8032
+CASE-0345,5,Routine Administrative / Follow-up,Patient reports follow up review of normal routine blood test report (no acute symptoms); no complaints or discomfort.,17.58,Low,29.56,0.8216
+CASE-0170,3,Subacute Clinical Evaluation,persistent dry cough with mild wheeze in known asthmatic for 3 days. Notes: gradual onset.,49.98,Moderate,52.16,0.8489
+CASE-0067,2,High-Risk Febrile / Sepsis / Abdominal,Patient reports acute severe flank pain radiating to groin with blood in urine (started 3 hours ago); feeling extremely weak and lethargic.,80.52,High,76.16,0.8445
+CASE-0047,2,High-Risk Febrile / Sepsis / Abdominal,Patient reports high fever 104F with rigors confusion and rapid breathing (worsening over 6 hours); unable to keep fluids down.,79.95,High,72.94,0.6744
+CASE-0156,3,Subacute Clinical Evaluation,"localized red warm skin swelling on forearm, vital signs feel stable, over the last 48 hours.",53.65,Moderate,56.54,0.8651
+CASE-0190,3,Moderate Infection / Acute Pain,moderate fever 101.5F with productive cough and body aches for 2 days. Notes: no chest pain or shortness of breath.,58.82,Moderate,59.11,0.9018
+CASE-0376,5,Minor Chronic / Cosmetic Inquiry,Patient reports routine certificate renewal for fitness checkup (for 1 month); feeling healthy overall.,14.06,Low,18.69,0.8162
+CASE-0230,4,Minor Acute Ailment,"itchy localized skin rash on arm without fever or swelling, mild discomfort only, for 3 days.",33.62,Low,35.97,0.6152
+CASE-0059,2,High-Risk Febrile / Sepsis / Abdominal,high fever 104F with rigors confusion and rapid breathing worsening over 6 hours. Notes: unable to keep fluids down.,81.88,High,74.79,0.7724
+CASE-0035,1,Acute Cardiopulmonary Distress,sudden severe shortness of breath unable to speak full sentences started 15 minutes ago. Notes: with palpitations and lightheadedness.,95.55,High,89.87,0.8006
+CASE-0054,2,High-Risk Febrile / Sepsis / Abdominal,"persistent chest discomfort on exertion with shortness of breath, feeling extremely weak and lethargic, since last night.",78.94,High,65.18,0.722
+CASE-0274,4,Mild Self-Limiting Symptoms,"minor superficial scrape on knee needing dressing advice, very mild intensity, for 4 days.",28.78,Low,26.23,0.9184
+CASE-0388,5,Minor Chronic / Cosmetic Inquiry,"general question about multivitamin supplementation, no pain fever or systemic symptoms, routine query.",7.31,Low,23.55,0.6167
+CASE-0060,2,High-Risk Febrile / Sepsis / Abdominal,Patient reports acute severe flank pain radiating to groin with blood in urine (started 3 hours ago); feeling extremely weak and lethargic.,79.8,High,75.6,0.8109
+CASE-0171,3,Moderate Infection / Acute Pain,Patient reports painful swollen ankle after twisting injury unable to bear weight (for 24 hours); no chest pain or shortness of breath.,63.79,Moderate,66.01,0.8638
+CASE-0155,3,Subacute Clinical Evaluation,localized red warm skin swelling on forearm for 2 days. Notes: vital signs feel stable.,56.65,Moderate,51.29,0.8424
+CASE-0134,3,Subacute Clinical Evaluation,"persistent dry cough with mild wheeze in known asthmatic, vital signs feel stable, for 2 days.",56.17,Moderate,53.75,0.8976
+CASE-0188,3,Moderate Infection / Acute Pain,moderate abdominal cramps with repeated watery diarrhea since yesterday. Notes: able to drink fluids slowly.,63.75,Moderate,57.93,0.8105
+CASE-0238,4,Mild Self-Limiting Symptoms,Patient reports mild tension headache relieved partially by rest (for 5 days); stable since onset.,27.74,Low,29.73,0.8901
+CASE-0243,4,Mild Self-Limiting Symptoms,"minor superficial scrape on knee needing dressing advice, normal appetite and energy, since two days ago.",24.0,Low,35.56,0.869
+CASE-0111,3,Moderate Infection / Acute Pain,moderate fever 101.5F with productive cough and body aches for 24 hours. Notes: able to drink fluids slowly.,56.99,Moderate,62.14,0.8693
+CASE-0332,5,Routine Administrative / Follow-up,"request for general diet and lifestyle advice for mild cholesterol, for routine continuation only, no acute symptoms.",16.09,Low,15.72,0.8026
+CASE-0119,3,Moderate Infection / Acute Pain,moderate fever 101.5F with productive cough and body aches for 24 hours. Notes: moderate discomfort interfering with sleep.,61.02,Moderate,61.84,0.8886
+CASE-0159,3,Moderate Infection / Acute Pain,moderate fever 101.5F with productive cough and body aches for 2 days. Notes: able to drink fluids slowly.,62.62,Moderate,56.74,0.9108
+CASE-0204,3,Subacute Clinical Evaluation,persistent ear pain with mild fever and muffled hearing over the last 48 hours. Notes: no confusion or neck stiffness.,53.93,Moderate,55.96,0.8357
+CASE-0061,2,Acute Respiratory / Metabolic Exacerbation,"pregnant patient with severe headache swelling and blurred vision, rescue inhaler giving minimal relief, over the past 5 hours.",79.08,High,79.97,0.7175
+CASE-0223,4,Mild Self-Limiting Symptoms,"mild dry cough without fever or chest pain, no red flag symptoms, since two days ago.",30.59,Low,37.31,0.8125
+CASE-0085,2,High-Risk Febrile / Sepsis / Abdominal,Patient reports acute severe flank pain radiating to groin with blood in urine (started 3 hours ago); feeling extremely weak and lethargic.,81.27,High,73.9,0.8413
+CASE-0351,5,Routine Administrative / Follow-up,"follow up review of normal routine blood test report, for routine continuation only, scheduled monthly check.",14.37,Low,15.52,0.793
+CASE-0124,3,Subacute Clinical Evaluation,"localized red warm skin swelling on forearm, no confusion or neck stiffness, since yesterday evening.",59.38,Moderate,55.13,0.7559
+CASE-0034,1,Severe Anaphylaxis / Hemorrhage,Patient reports heavy uncontrolled bleeding from deep laceration (over the past 20 minutes); breathing becoming noisy.,96.0,High,81.28,0.7682
+CASE-0002,1,Severe Anaphylaxis / Hemorrhage,rapid tongue and throat swelling with wheezing after medication for 15 minutes. Notes: feeling faint when standing.,92.32,High,68.51,0.5707
+CASE-0323,5,Routine Administrative / Follow-up,"request for general diet and lifestyle advice for mild cholesterol, asymptomatic and stable, ongoing routine care.",12.61,Low,12.15,0.802
+CASE-0321,5,Routine Administrative / Follow-up,"routine prescription refill request for stable blood pressure medication, for routine continuation only, no acute symptoms.",19.1,Low,17.74,0.8746
+CASE-0209,3,Moderate Infection / Acute Pain,"painful urination with lower abdominal discomfort and mild fever, feeling fatigued but alert and breathing comfortably, for 2 days.",59.41,Moderate,55.34,0.8793
+CASE-0140,3,Subacute Clinical Evaluation,"moderate migraine headache with nausea and light sensitivity, mild relief with rest, for 3 days.",55.15,Moderate,50.27,0.8378
+CASE-0036,1,Acute Neurological Emergency,"sudden slurred speech and weakness on right side of face and arm, patient struggling to stay awake, started 20 minutes ago.",94.89,High,91.17,0.8078
+CASE-0235,4,Mild Self-Limiting Symptoms,Patient reports mild seasonal nasal congestion and watery eyes (since two days ago); no red flag symptoms.,29.95,Low,31.71,0.7725
+CASE-0089,2,High-Risk Febrile / Sepsis / Abdominal,Patient reports severe sharp lower right abdominal pain with persistent vomiting (for the past 4 hours); feeling extremely weak and lethargic.,84.16,High,83.06,0.8646
+CASE-0313,4,Minor Acute Ailment,Patient reports mild sore throat with runny nose and occasional sneezing (for the past 4 days); mild discomfort only.,32.43,Low,32.75,0.8487
+CASE-0305,4,Mild Self-Limiting Symptoms,Patient reports mild seasonal nasal congestion and watery eyes (for 5 days); very mild intensity.,27.09,Low,28.64,0.889
+CASE-0366,5,Routine Administrative / Follow-up,Patient reports follow up review of normal routine blood test report (ongoing routine care); no complaints or discomfort.,14.19,Low,21.41,0.7416
+CASE-0296,4,Mild Self-Limiting Symptoms,"mild dry cough without fever or chest pain, normal appetite and energy, for 4 days.",27.75,Low,31.42,0.877
+CASE-0338,5,Routine Administrative / Follow-up,routine prescription refill request for stable blood pressure medication since last month. Notes: asymptomatic and stable.,9.87,Low,18.87,0.8524
+CASE-0289,4,Minor Acute Ailment,"mild acid reflux and bloating after heavy meal, mild discomfort only, since yesterday.",32.24,Low,35.31,0.8517
+CASE-0021,1,Severe Anaphylaxis / Hemorrhage,severe allergic reaction with hives and difficulty swallowing started 10 minutes ago. Notes: feeling faint when standing.,93.24,High,87.53,0.8587
+CASE-0098,2,Acute Respiratory / Metabolic Exacerbation,diabetic patient with persistent vomiting abdominal pain and drowsiness since early morning. Notes: marked fatigue and dry mouth.,77.25,High,70.31,0.8407
+CASE-0153,3,Moderate Infection / Acute Pain,painful swollen ankle after twisting injury unable to bear weight for 24 hours. Notes: moderate discomfort interfering with sleep.,59.78,Moderate,63.44,0.8225
+CASE-0076,2,Acute Respiratory / Metabolic Exacerbation,"acute asthma flare with audible wheezing and chest tightness, breathing faster than normal, over the past 5 hours.",75.56,High,69.15,0.8449
+CASE-0099,2,Acute Respiratory / Metabolic Exacerbation,pregnant patient with severe headache swelling and blurred vision since early morning. Notes: rescue inhaler giving minimal relief.,77.32,High,73.81,0.674
+CASE-0364,5,Routine Administrative / Follow-up,routine medication renewal for well controlled thyroid condition ongoing routine care. Notes: for routine continuation only.,11.48,Low,16.76,0.7929
+CASE-0031,1,Severe Anaphylaxis / Hemorrhage,Patient reports vomiting bright red blood with severe dizziness (started 10 minutes ago); feeling faint when standing.,94.1,High,85.42,0.7345
+CASE-0011,1,Severe Anaphylaxis / Hemorrhage,rapid tongue and throat swelling with wheezing after medication started 10 minutes ago. Notes: breathing becoming noisy.,89.94,High,84.58,0.7349
+CASE-0219,3,Moderate Infection / Acute Pain,Patient reports moderate fever 101.5F with productive cough and body aches (for 24 hours); able to drink fluids slowly.,63.29,Moderate,60.55,0.8572
+CASE-0367,5,Routine Administrative / Follow-up,"follow up review of normal routine blood test report, asymptomatic and stable, ongoing routine care.",20.35,Low,12.09,0.8035
+CASE-0288,4,Minor Acute Ailment,"mild acid reflux and bloating after heavy meal, otherwise feeling well, since yesterday.",29.49,Low,39.9,0.8422
+CASE-0163,3,Subacute Clinical Evaluation,Patient reports persistent dry cough with mild wheeze in known asthmatic (for 3 days); vital signs feel stable.,54.12,Moderate,54.88,0.8553
+CASE-0270,4,Minor Acute Ailment,mild sore throat with runny nose and occasional sneezing for 2 days. Notes: otherwise feeling well.,31.57,Low,40.43,0.7521
+CASE-0026,1,Acute Cardiopulmonary Distress,acute chest pressure with nausea and near fainting for the past 30 minutes. Notes: worsening rapidly.,96.66,High,90.38,0.6382
+CASE-0145,3,Subacute Clinical Evaluation,"persistent dry cough with mild wheeze in known asthmatic, gradual onset, for 2 days.",57.13,Moderate,53.24,0.8491
+CASE-0178,3,Moderate Infection / Acute Pain,moderate abdominal cramps with repeated watery diarrhea since yesterday. Notes: moderate discomfort interfering with sleep.,63.91,Moderate,57.9,0.7921
+CASE-0327,5,Routine Administrative / Follow-up,"routine prescription refill request for stable blood pressure medication, no complaints or discomfort, no acute symptoms.",17.13,Low,20.46,0.8791
+CASE-0211,3,Moderate Infection / Acute Pain,Patient reports painful urination with lower abdominal discomfort and mild fever (since yesterday); able to drink fluids slowly.,59.44,Moderate,55.85,0.8441
+CASE-0110,3,Moderate Infection / Acute Pain,moderate abdominal cramps with repeated watery diarrhea for 2 days. Notes: moderate discomfort interfering with sleep.,64.1,Moderate,55.87,0.729
+CASE-0363,5,Routine Administrative / Follow-up,request for general diet and lifestyle advice for mild cholesterol ongoing routine care. Notes: for routine continuation only.,18.61,Low,9.65,0.8237
+CASE-0158,3,Moderate Infection / Acute Pain,Patient reports moderate fever 101.5F with productive cough and body aches (for 24 hours); able to drink fluids slowly.,56.01,Moderate,61.94,0.8828
+CASE-0218,3,Subacute Clinical Evaluation,Patient reports persistent ear pain with mild fever and muffled hearing (for 2 days); mild relief with rest.,51.35,Moderate,54.41,0.8626
+CASE-0023,1,Acute Neurological Emergency,Patient reports uncontrolled active seizure episode followed by confusion (noticed 15 minutes ago); never experienced before.,95.14,High,91.27,0.8017
+CASE-0263,4,Minor Acute Ailment,itchy localized skin rash on arm without fever or swelling since yesterday. Notes: mild discomfort only.,29.16,Low,42.13,0.6583
+CASE-0020,1,Acute Cardiopulmonary Distress,"severe chest tightness with cold sweats and dizziness, accompanied by profuse sweating and pallor, worsening over the last hour.",94.52,High,77.41,0.738
+CASE-0028,1,Acute Neurological Emergency,"uncontrolled active seizure episode followed by confusion, onset was abrupt, for the past 25 minutes.",91.51,High,83.26,0.6867
+CASE-0265,4,Minor Acute Ailment,Patient reports mild sore throat with runny nose and occasional sneezing (for the past 4 days); mild discomfort only.,32.44,Low,36.63,0.8474
+CASE-0203,3,Moderate Infection / Acute Pain,moderate abdominal cramps with repeated watery diarrhea for 24 hours. Notes: able to drink fluids slowly.,61.39,Moderate,61.58,0.8199
+CASE-0181,3,Moderate Infection / Acute Pain,Patient reports painful swollen ankle after twisting injury unable to bear weight (over the past 36 hours); no chest pain or shortness of breath.,62.6,Moderate,67.75,0.8751
+CASE-0148,3,Subacute Clinical Evaluation,Patient reports moderate migraine headache with nausea and light sensitivity (for 2 days); no confusion or neck stiffness.,52.24,Moderate,55.59,0.9006
+CASE-0179,3,Moderate Infection / Acute Pain,moderate fever 101.5F with productive cough and body aches since yesterday. Notes: feeling fatigued but alert and breathing comfortably.,59.41,Moderate,57.94,0.8719
+CASE-0372,5,Minor Chronic / Cosmetic Inquiry,Patient reports mild dry skin on hands during weather change (for 1 month); feeling healthy overall.,12.06,Low,16.95,0.8589
+CASE-0393,5,Routine Administrative / Follow-up,"routine medication renewal for well controlled thyroid condition, for routine continuation only, scheduled monthly check.",18.29,Low,17.42,0.7775
+CASE-0255,4,Minor Acute Ailment,"mild lower back stiffness after lifting boxes, able to eat drink and walk normally, for 3 days.",30.48,Low,33.16,0.8898
+CASE-0010,1,Severe Anaphylaxis / Hemorrhage,Patient reports vomiting bright red blood with severe dizziness (began 30 minutes ago); breathing becoming noisy.,93.54,High,82.22,0.7364
+CASE-0253,4,Minor Acute Ailment,Patient reports mild sore throat with runny nose and occasional sneezing (for the past 4 days); able to eat drink and walk normally.,31.27,Low,37.53,0.8008
+CASE-0127,3,Subacute Clinical Evaluation,Patient reports persistent dry cough with mild wheeze in known asthmatic (for 3 days); mild relief with rest.,53.4,Moderate,54.45,0.9088
+CASE-0166,3,Subacute Clinical Evaluation,"persistent ear pain with mild fever and muffled hearing, vital signs feel stable, since yesterday evening.",55.6,Moderate,53.9,0.8887
+CASE-0052,2,Acute Respiratory / Metabolic Exacerbation,Patient reports acute asthma flare with audible wheezing and chest tightness (for 2 hours); symptoms escalating steadily.,82.27,High,57.59,0.7151
+CASE-0057,2,High-Risk Febrile / Sepsis / Abdominal,"severe sharp lower right abdominal pain with persistent vomiting, fever not responding to paracetamol, started 3 hours ago.",81.99,High,82.92,0.8514
+CASE-0390,5,Routine Administrative / Follow-up,"follow up review of normal routine blood test report, asymptomatic and stable, scheduled monthly check.",17.64,Low,17.33,0.7473
+CASE-0379,5,Minor Chronic / Cosmetic Inquiry,routine certificate renewal for fitness checkup for 2 weeks. Notes: feeling healthy overall.,12.13,Low,15.98,0.825
+CASE-0144,3,Subacute Clinical Evaluation,persistent ear pain with mild fever and muffled hearing for 3 days. Notes: vital signs feel stable.,57.66,Moderate,49.89,0.8593
+CASE-0012,1,Acute Neurological Emergency,Patient reports sudden worst headache of life with blurred vision and vomiting (began 40 minutes ago); with numbness in left arm and leg.,95.36,High,85.64,0.7493
